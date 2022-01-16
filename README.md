@@ -1,4 +1,4 @@
-<h1 align="left">Bruno Barosa - Android Developer</h1>
+<h1 align="left">Bruno Barbosa - Android Developer</h1>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
